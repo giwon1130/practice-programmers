@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0b6857d-b724-4b68-97b4-ba76d1ecb8b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Level0/Sample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Level0/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Level0/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Level0/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Level0/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Level0/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Level0/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Level0/Test07.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Level0/Babbling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Level0/Babbling.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,9 +64,22 @@
       <recent name="org.example.Level0" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test01">
+  <component name="RunManager" selected="Application.Test03">
     <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Level0.Test01" />
+      <module name="practice_programmers.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Level0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Level0.Test03" />
       <module name="practice_programmers.main" />
       <extension name="coverage">
         <pattern>
@@ -88,6 +102,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test03" />
         <item itemvalue="Application.Test01" />
       </list>
     </recent_temporary>
@@ -106,7 +121,7 @@
       <workItem from="1680658503938" duration="1332000" />
       <workItem from="1680664200301" duration="1034000" />
       <workItem from="1680676494539" duration="65000" />
-      <workItem from="1683772230180" duration="1437000" />
+      <workItem from="1683772230180" duration="3153000" />
     </task>
     <servers />
   </component>
