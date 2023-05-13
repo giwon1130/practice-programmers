@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0b6857d-b724-4b68-97b4-ba76d1ecb8b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Level0/Test20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Level0/Test21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Level0/Test22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Level3/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Level3/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Level3/Test02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Level0/Test19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Level0/Test19.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,17 +59,18 @@
       <recent name="C:\Users\gwim1\IdeaProjects\practice_programmers\src\main\java\org\example" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.Level3" />
       <recent name="org.example.Level0" />
       <recent name="org.example.Level1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test18">
-    <configuration name="Test03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Level0.Test03" />
+  <component name="RunManager" selected="Application.Test01">
+    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Level3.Test01" />
       <module name="practice_programmers.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Level0.*" />
+          <option name="PATTERN" value="org.example.Level3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test01" />
         <item itemvalue="Application.Test18" />
         <item itemvalue="Application.Test16" />
         <item itemvalue="Application.Test15" />
         <item itemvalue="Application.Test05" />
-        <item itemvalue="Application.Test03" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +164,7 @@
       <workItem from="1680664200301" duration="1034000" />
       <workItem from="1680676494539" duration="65000" />
       <workItem from="1683772230180" duration="6951000" />
-      <workItem from="1683866382014" duration="12946000" />
+      <workItem from="1683866382014" duration="14926000" />
     </task>
     <servers />
   </component>

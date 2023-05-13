@@ -1,4 +1,4 @@
-package org.example.Level1;
+package org.example.Level3;
 
 // 코테 설명
 public class Sample {
