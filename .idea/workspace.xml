@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0b6857d-b724-4b68-97b4-ba76d1ecb8b0" name="Changes" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Level0/Test23.java" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Level0/Test25.java" afterDir="false" />
+>>>>>>> 185df858c4869882a0a11b4d5eb2289b35e422e1
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,39 +66,13 @@
       <recent name="org.example.Level1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test01">
+  <component name="RunManager" selected="Application.Test24">
     <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Level3.Test01" />
       <module name="practice_programmers.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.Level3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Level1.Test05" />
-      <module name="practice_programmers.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.Level1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Level0.Test15" />
-      <module name="practice_programmers.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.Level0.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,6 +106,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Level0.Test23" />
+      <module name="practice_programmers.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Level0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Level0.Test24" />
+      <module name="practice_programmers.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Level0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main" type="Application" factoryName="Application" activateToolWindowBeforeRun="false">
       <option name="ALTERNATIVE_JRE_PATH" value="12" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -139,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test24" />
+        <item itemvalue="Application.Test23" />
         <item itemvalue="Application.Test01" />
         <item itemvalue="Application.Test18" />
         <item itemvalue="Application.Test16" />
-        <item itemvalue="Application.Test15" />
-        <item itemvalue="Application.Test05" />
       </list>
     </recent_temporary>
   </component>
@@ -162,9 +166,15 @@
       <workItem from="1680664200301" duration="1034000" />
       <workItem from="1680676494539" duration="65000" />
       <workItem from="1683772230180" duration="6951000" />
+<<<<<<< HEAD
       <workItem from="1683866382014" duration="17252000" />
       <workItem from="1684061584107" duration="243000" />
       <workItem from="1685412469876" duration="7111000" />
+=======
+      <workItem from="1683866382014" duration="14926000" />
+      <workItem from="1684117365306" duration="5722000" />
+      <workItem from="1684286240115" duration="316000" />
+>>>>>>> 185df858c4869882a0a11b4d5eb2289b35e422e1
     </task>
     <servers />
   </component>
@@ -189,6 +199,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Level0/Test16.java</url>
           <line>16</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Level0/Test23.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
